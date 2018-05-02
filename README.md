@@ -1,4 +1,4 @@
-# Practice With Array Functions
+# Practice with Array Functions
 
 These exercises allowed me to gain experience with various array functions, such as ```array.sort()```, ```array.filter()```, ```array.map()```, and ```array.reduce()```, while also utilizing ES6+ syntax.
 
